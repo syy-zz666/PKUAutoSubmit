@@ -1,5 +1,5 @@
 # PKUAutoSubmit (modified)
-立足燕园，解放清华
+立足燕园，解放清
 
 **UPDATE 2020/10/18**
 
